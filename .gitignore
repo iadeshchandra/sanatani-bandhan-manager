@@ -1,0 +1,31 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Buildozer and Kivy
+.buildozer/
+bin/
+
+# Local Database - NEVER COMMIT THIS TO GITHUB
+*.db
+*.sqlite3
+shda_local.db
+
+# PDF Reports
+Sanatani_Reports/
+*.pdf
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+
