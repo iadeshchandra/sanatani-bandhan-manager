@@ -35,5 +35,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: SHDA-Management-App
-          path: bin/*.apk
+          path: bin/*.apk 
 
