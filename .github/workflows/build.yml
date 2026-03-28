@@ -1,4 +1,4 @@
-herename: Build SHDA Android APK
+name: Build SHDA Android APK
 
 on:
   push:
