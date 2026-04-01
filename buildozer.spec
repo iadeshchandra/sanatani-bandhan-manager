@@ -5,7 +5,7 @@ package.domain = org.sanatanibandhan
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,ttf,md
 version = 1.0.0
-requirements = python3,kivy,sqlite3,requests,fpdf
+requirements = python3,kivy==2.3.0,sqlite3,requests,fpdf
 orientation = portrait
 fullscreen = 0
 icon.filename = %(source.dir)s/assets/icon.png
